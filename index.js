@@ -1,5 +1,5 @@
 var greeting = "Hello, everybody";
-console.log(greeting);
+console.log(greeting)
 
 var specialGuest = "Neil deGrasse Tyson"
 
